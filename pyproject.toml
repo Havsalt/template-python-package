@@ -22,7 +22,7 @@ dev = [
 [project.scripts]
 "$[project-name]" = "$[project_name]:main"
 
-[project.links]
+[project.urls]
 "Documentation" = "https://github.com/havsalt/$[project-name]#Docs.md"
 "Source Code" = "https://github.com/havsalt/$[project-name]"
 "Issues" = "https://github.com/havsalt/$[project-name]/issues"
