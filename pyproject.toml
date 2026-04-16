@@ -21,7 +21,7 @@ dev = [
 ]
 
 [project.scripts]
-"$[project-name]" = "$[project_name]:main"
+$[project-name] = "$[project_name]:main"
 
 [project.urls]
 Homepage = "https://github.com/havsalt/$[project-name]"
