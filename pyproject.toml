@@ -26,6 +26,6 @@ $[project-name] = "$[project_name]:main"
 [project.urls]
 Homepage = "https://github.com/havsalt/$[project-name]"
 Repository = "https://github.com/havsalt/$[project-name]"
-Documentation = "https://github.com/havsalt/$[project-name]#Docs.md"
+Documentation = "https://github.com/havsalt/$[project-name]/blob/main/Docs.md"
 Issues = "https://github.com/havsalt/$[project-name]/issues"
 Changelog = "https://github.com/havsalt/$[project-name]/blob/main/CHANGELOG.md"
